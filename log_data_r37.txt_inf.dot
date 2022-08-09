@@ -1,0 +1,16 @@
+digraph log_data_r37.txt {
+size = "6,8.5";
+ratio = "fill";
+node [shape = circle];
+node [fontsize = 24];
+edge [fontsize = 24];
+0 -> 2 [label = "1: 1        "];
+1 -> 4 [label = "0: 0.4081   "];
+1 -> 0 [label = "1: 0.5919   "];
+2 -> 5 [label = "0: 0.3411   "];
+2 -> 0 [label = "1: 0.6589   "];
+3 -> 4 [label = "0: 0.4463   "];
+3 -> 0 [label = "1: 0.5537   "];
+4 -> 3 [label = "1: 1        "];
+5 -> 1 [label = "1: 1        "];
+}

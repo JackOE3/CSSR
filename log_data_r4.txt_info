@@ -1,0 +1,13 @@
+Alphabet File: alphabet.txt
+Data File: log_data_r4.txt
+History Length: 6
+Significance Level: 1e-05
+Multiline Mode: false
+Chi-squared test used: false
+Alphabet Size: 2
+Relative Entropy: 0.000613433
+Relative Entropy Rate: 0.000370064
+Statistical Complexity: -0
+Entropy Rate: 0.999983
+Variation: 0.0239251
+Number of Inferred States: 1

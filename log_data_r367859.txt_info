@@ -1,0 +1,14 @@
+Alphabet File: alphabet.txt
+Data File: log_data_r367859.txt
+History Length: 7
+Significance Level: 1e-150
+Multiline Mode: false
+Chi-squared test used: false
+Alphabet Size: 2
+Relative Entropy: 0.00169742
+Relative Entropy Rate: 0.000497575
+Statistical Complexity: 2.43105
+Entropy Rate: 0.494535
+Variation: 0.0373517
+Number of Inferred States: 6
+This data needed to be synchronized to a set of states more than once.  It is recommended that you try a longer history length, as this set of states cannot possibly be the causal states.
