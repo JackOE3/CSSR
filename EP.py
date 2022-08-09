@@ -19,5 +19,5 @@ for i in range(stream_length):
     state = "b"
 
 
-with open("EP_data.txt", "w") as file:
+with open("data/EP_data2.txt", "w") as file:
   file.write(data_stream)

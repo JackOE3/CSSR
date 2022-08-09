@@ -9,5 +9,5 @@ for i in range(stream_length):
   else:
     data_stream += str(random.randint(0,1))
 
-with open("GMP_data.txt", "w") as file:
+with open("data/GMP_data.txt", "w") as file:
   file.write(data_stream)

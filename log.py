@@ -21,5 +21,5 @@ for i in range(stream_length):
   elif 0.5 <= x <= 1:
     data_stream += "1"
 
-with open(f"log_data_r{3569945671}.txt", "w") as file:
+with open(f"data/log_data_r{3569945671}.txt", "w") as file:
   file.write(data_stream)
